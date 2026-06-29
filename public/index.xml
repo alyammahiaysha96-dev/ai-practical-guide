@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Practical Guide</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AI Practical Guide</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to AI Practical Guide</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>Discover practical AI tutorials, automation guides, and useful digital tools.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;AI Practical Guide publishes beginner-friendly tutorials about artificial intelligence, automation, productivity, and digital tools.&lt;/p&gt;
+&lt;p&gt;Our content focuses on practical steps, honest testing, clear explanations, and reliable sources.&lt;/p&gt;
+&lt;p&gt;We aim to help individuals, creators, freelancers, and small businesses use technology more effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;For questions, feedback, corrections, or business inquiries, please contact us by email.&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:alyammahi.aysha96@gmail.com&#34;&gt;alyammahi.aysha96@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/disclaimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/disclaimer/</guid>
+      <description>&lt;p&gt;The information published on this website is provided for educational and informational purposes only.&lt;/p&gt;
+&lt;p&gt;Technology, artificial intelligence tools, software features, prices, and policies may change over time.&lt;/p&gt;
+&lt;p&gt;Readers should verify important information through official sources before making financial, legal, medical, or business decisions.&lt;/p&gt;
+&lt;p&gt;Some articles may contain affiliate links or advertisements. This does not affect our commitment to providing honest and useful content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;This website respects the privacy of its visitors.&lt;/p&gt;
+&lt;p&gt;We may use analytics services, advertising services, and cookies to understand website performance and improve the user experience.&lt;/p&gt;
+&lt;p&gt;Third-party services, including Google AdSense, may use cookies to display relevant advertisements and measure advertising performance.&lt;/p&gt;
+&lt;p&gt;We do not sell personal information.&lt;/p&gt;
+&lt;p&gt;Visitors can disable cookies through their browser settings.&lt;/p&gt;
+&lt;p&gt;This privacy policy may be updated when new services or features are added to the website.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

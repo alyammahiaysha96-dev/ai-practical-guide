@@ -1,0 +1,58 @@
+baseURL: "http://localhost:1313/"
+defaultContentLanguage: "en"
+title: "AI Practical Guide"
+theme: "PaperMod"
+enableRobotsTXT: true
+
+languages:
+  en:
+    locale: "en-US"
+    label: "English"
+    weight: 1
+
+pagination:
+  pagerSize: 10
+
+params:
+  env: production
+  title: "AI Practical Guide"
+  description: "Practical tutorials about artificial intelligence, automation, productivity, and digital tools."
+  author: "Aaesha"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+  homeInfoParams:
+    Title: "Learn AI and Automation Step by Step"
+    Content: "Practical tutorials, honest tool reviews, and beginner-friendly guides for using artificial intelligence effectively."
+
+menu:
+  main:
+    - identifier: posts
+      name: "Articles"
+      url: "/posts/"
+      weight: 10
+
+    - identifier: about
+      name: "About"
+      url: "/about/"
+      weight: 20
+
+    - identifier: privacy
+      name: "Privacy Policy"
+      url: "/privacy/"
+      weight: 30
+
+    - identifier: contact
+      name: "Contact"
+      url: "/contact/"
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

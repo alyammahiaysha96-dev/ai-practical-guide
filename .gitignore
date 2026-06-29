@@ -2,3 +2,7 @@ public/
 resources/
 .hugo_build.lock
 .DS_Store
+automation/publisher.log
+automation/.publisher.lock
+automation/launchd-output.log
+automation/launchd-error.log
